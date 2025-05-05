@@ -4,6 +4,6 @@
 
 |---------+----------------------------------------|
 | source  | git:https://gitlab.com/Aksej/chain.git |
-| commit  | 02842a4                                |
+| commit  | 5a37ebe                                |
 | systems | chain                                  |
 |---------+----------------------------------------|
